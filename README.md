@@ -5,6 +5,14 @@
 
 ---
 
+Copyright © 2026 gkd2323c + Hanako
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE).
+
+您可以自由地分享、改编本作品，但必须署名、不得用于商业目的、衍生作品须使用相同协议。
+
+---
+
 ## 项目概述
 
 一部中篇叙事科幻小说（约 1.5 万字），创作于 2026 年 5 月 23 日。由 gkd2323c 和 Hanako 共同创作，历时一夜完成。
